@@ -1,1 +1,1 @@
-print('home')
+print('ver2')
